@@ -1,14 +1,14 @@
 
-# 💫About Me :
-🌱 I’m currently learning React, Algorithms, Backend development
+## 💫About Me :
+🌱 I’m currently learning **React, Algorithms, Backend development**
 
-💬 Ask me about Java, Data Structures, Agile methodologies, HTML5, CSS3
+💬 Ask me about **Java, Data Structures, Agile methodologies, HTML5, CSS3**
 
-📫 How to reach me ethanfrost47@gmail.com
+📫 How to reach me ***ethanfrost47@gmail.com***
 
-📄 Know about my experiences https://upesstd-my.sharepoint.com/:w:/g/personal/500097017_stu_upes_ac_in/ETrz6WMZkhdLle13_8FyYzgBq7ZqMn7idVS5nsajW5ay8A?e=BbOvfC
+📄 Know about my experiences [My Resume](https://shorturl.at/dzT69)
 
-⚡ Fun fact I'm a night owl and yes days don't just workout for me.
+⚡ Fun fact **I'm a night owl and yes days don't just workout for me.**
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coldxkshxttt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-tiwari-47at) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22031429/akshat-tiwari) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/akshattiwari47) 
