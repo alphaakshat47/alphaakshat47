@@ -4,7 +4,7 @@
 
 💬 Ask me about **Java, Data Structures, Agile methodologies, HTML5, CSS3**
 
-📫 How to reach me ***ethanfrost47@gmail.com***
+📫 How to reach me ***akshatt619@gmail.com***
 
 📄 Know about my experiences [My Resume](https://shorturl.at/dzT69)
 
