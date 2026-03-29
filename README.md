@@ -6,9 +6,9 @@
 
 📫 How to reach me ***akshatt619@gmail.com***
 
-📄 Know about my experiences [My Resume](https://shorturl.at/dzT69)
+📄 Know about my experiences [My Resume]([https://shorturl.at/dzT69](https://drive.google.com/file/d/1q9UG7YsXiH8tuC6bCIbYYNzUSnIDTfqt/view?usp=drive_link))<br/>[LinkedIn](https://linkedin.com/in/akshattiwaridevops/)
 
-⚡ Fun fact **I'm a night owl and yes days don't just workout for me.**
+⚡ Fun fact **I'm a night owl, and yes, days simply don't work out for me.**
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coldxkshxttt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-tiwari-47at) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22031429/akshat-tiwari) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/akshattiwari47) 
