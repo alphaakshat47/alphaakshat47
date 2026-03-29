@@ -6,7 +6,9 @@
 
 📫 How to reach me ***akshatt619@gmail.com***
 
-📄 Know about my experiences [My Resume]([https://shorturl.at/dzT69](https://drive.google.com/file/d/1q9UG7YsXiH8tuC6bCIbYYNzUSnIDTfqt/view?usp=drive_link))<br/>[LinkedIn](https://linkedin.com/in/akshattiwaridevops/)
+📄 Know about my experiences [My Resume]([https://shorturl.at/dzT69](https://drive.google.com/file/d/1q9UG7YsXiH8tuC6bCIbYYNzUSnIDTfqt/view?usp=drive_link))
+
+Here's my [LinkedIn](https://linkedin.com/in/akshattiwaridevops/)
 
 ⚡ Fun fact **I'm a night owl, and yes, days simply don't work out for me.**
 
