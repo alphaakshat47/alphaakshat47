@@ -6,7 +6,7 @@
 
 📫 How to reach me ***akshatt619@gmail.com***
 
-📄 Know about my experiences [My Resume]([https://shorturl.at/dzT69](https://drive.google.com/file/d/1q9UG7YsXiH8tuC6bCIbYYNzUSnIDTfqt/view?usp=drive_link)
+📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1q9UG7YsXiH8tuC6bCIbYYNzUSnIDTfqt/view?usp=drive_link)
 
 Here's my [LinkedIn](https://linkedin.com/in/akshattiwaridevops/)
 
